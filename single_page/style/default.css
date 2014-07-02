@@ -1,0 +1,16 @@
+
+
+.page1{
+	font-size: 20px;
+	color:red;
+}
+
+a{
+	color: red;
+}
+
+#flash{
+	width: 200px;
+	height: 100px;
+	background: #ccc;
+}
